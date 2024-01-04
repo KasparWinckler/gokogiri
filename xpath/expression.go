@@ -1,6 +1,7 @@
 package xpath
 
 /*
+#include <stdlib.h>
 #include <libxml/xpath.h>
 #include <libxml/xpathInternals.h>
 #include <string.h>
